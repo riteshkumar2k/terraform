@@ -2,3 +2,4 @@ Terraform notes
 
 1)  configure ssh
 2) New content
+3) 3rd commit
